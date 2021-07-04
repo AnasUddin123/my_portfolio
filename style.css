@@ -27,12 +27,7 @@ p{
     font-size: 20px;
     color: teal;
 }
-.portfolio{
-        color: black;
-}
-.myself{
-    color: rgb(240, 115, 13);
-}
+
 .link-button{
     text-decoration: none;
     background: linear-gradient(
@@ -45,6 +40,7 @@ p{
 }
 section{
     display: flex;
+    margin-bottom: 100px;
 }
 .half-width{
     padding: 2%;
@@ -61,4 +57,9 @@ section{
 }
 body{
     margin: 0;
+}
+.dream-big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
