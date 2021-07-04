@@ -14,7 +14,7 @@ p{
 .myself{
     color: rgb(240, 115, 13);
 }
-button{
+.link-button{
     text-decoration: none;
     background: linear-gradient(
 45deg
